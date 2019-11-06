@@ -3,4 +3,4 @@
 通过文章的形式，记录学习以及工作中遇到的问题，总结相关知识点。内容包括原生JS、Vue、React、和Webpack等方面。
 
 > ## Javascript
-1. [根据Promise A+ 规范实现Promise]()
+1. [根据Promise A+ 规范实现Promise](https://github.com/KrisGuoQin/Blog/issues/1)
