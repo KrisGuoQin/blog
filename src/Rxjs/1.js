@@ -24,3 +24,14 @@ const subInst = zip(
     }
 );
 
+// async await实现
+async function submitForm () {
+    const val = await Promise.all([
+        makePromise('uploadImgs', 1000),
+        makePromise('uploadFiles', 2000)
+    ]);
+    console.log('val', val);
+    const val2 = await makePromise('submitForm', 1000);
+    console.log('val2', val2);
+}
+submitForm()
