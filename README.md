@@ -14,3 +14,4 @@
 
 > ## Git
 1. [切换远程仓库地址](https://github.com/KrisGuoQin/Blog/issues/5)
+2. [撤销上一次提交](https://github.com/KrisGuoQin/Blog/issues/6)
