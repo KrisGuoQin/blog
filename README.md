@@ -17,4 +17,4 @@
 2. [撤销上一次提交](https://github.com/KrisGuoQin/Blog/issues/6)
 
 > ## 工具方法
-1. [将接口注释转化为数组形式](https://github.com/KrisGuoQin/Blog/src/README.md)
+1. [将接口注释转化为数组形式](https://github.com/KrisGuoQin/Blog/src/format-js/README.md)
