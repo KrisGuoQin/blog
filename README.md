@@ -21,3 +21,4 @@
 
 > ## React
 1. [阅读react-cloud-music学习到的知识点](https://github.com/KrisGuoQin/Blog/issues/7)
+1. [使用craco修改create-react-app配置](https://github.com/KrisGuoQin/Blog/issues/8)
